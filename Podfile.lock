@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.9.1)
+  - GrowingTextView (0.7.2)
+  - JGProgressHUD (2.1)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - GrowingTextView
+  - JGProgressHUD
+  - SDWebImage
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - GrowingTextView
+    - JGProgressHUD
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  GrowingTextView: 876bf42005b5e4a4fd740597db12caaf41f0fe6c
+  JGProgressHUD: aa403e9a5b45cae98903c4600cccdd98c0c3ec90
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+
+PODFILE CHECKSUM: fe519e1301362ca5f7bf16936c0c6e01bf04d720
+
+COCOAPODS: 1.6.0
